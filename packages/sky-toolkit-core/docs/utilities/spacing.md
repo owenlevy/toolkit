@@ -31,6 +31,7 @@ With the following size suffixes:
 | `-tiny`             | `$global-spacing-unit-tiny`  |
 | `-small`            | `$global-spacing-unit-small` |
 | `-large`            | `$global-spacing-unit-large` |
+| `-huge`             | `$global-spacing-unit-huge`  |
 
 ## Margin
 

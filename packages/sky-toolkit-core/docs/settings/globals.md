@@ -23,6 +23,7 @@ Exposed in [sky-toolkit-core/utilities/spacing](../../utilities/_spacing.scss).
 | `$global-spacing-unit-tiny`    | ¼ Default     |
 | `$global-spacing-unit-small`   | ½ Default     |
 | `$global-spacing-unit-large`   | 2 × Default   |
+| `$global-spacing-unit-huge`    | 4 × Default   |
 
 ---
 
